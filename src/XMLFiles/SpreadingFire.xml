@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<data rule="rule">
+    <name>Fire</name>
+    <title>Fire_Simulation</title>
+    <author>Team05</author>
+    <threshold>0.75</threshold>
+    <row>6</row>
+    <col>6</col>
+    <initial>111111111111111111111111111111111111</initial>
+</data>

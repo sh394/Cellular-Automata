@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<data rule="rule">
+    <name>Percolation</name>
+    <title>Percolation_simulation</title>
+    <author>Team05</author>
+    <threshold>0.0</threshold>
+    <row>6</row>
+    <col>6</col>
+    <initial>110011110011110011110011110011112211</initial>
+</data>
